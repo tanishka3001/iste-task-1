@@ -10,11 +10,7 @@ module.exports = {
       '2xl': '1536px',
     },
     extend: {
-       screens: {
-        'sm': '850px',
-        'md': '900px',
-
-      },
+      
     },
   },
   plugins: [],
